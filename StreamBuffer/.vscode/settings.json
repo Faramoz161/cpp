@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "memory_resource": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp"
+    }
+}
